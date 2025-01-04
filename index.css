@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bag-button{
+    background-color: rgb(165, 255, 165);
+    border: none;
+    border-radius: 30px;
+}
+
+.wish-button{
+    padding: 5px 35px;
+    border: 2px solid black;
+    border-radius: 40px;
+    text-transform: uppercase;
+}
